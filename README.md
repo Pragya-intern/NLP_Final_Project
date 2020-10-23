@@ -11,7 +11,7 @@ Generating text using language modelling
 
 # Creating sequences 
 
-# Encoding sequences using Keras Tokenizer from kera.preprocessing.text
+# Encoding sequences using Keras Tokenizer from keras.preprocessing.text
 
 # Separating X and y and performing one-hot encoding
 
